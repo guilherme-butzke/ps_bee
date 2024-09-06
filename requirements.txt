@@ -4,3 +4,4 @@ ipykernel==6.29.5
 pyarrow==17.0.0
 fastparquet==2024.5.0
 pandas-profiling==3.6.6
+statsmodel==0.14.2
